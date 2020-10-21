@@ -1,0 +1,91 @@
+body {
+  background-color: grey;
+  background-color: hsl(0, 0%, 98%);
+  font-size: 10px;
+  text-align: center;
+  font-weight: 200;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 200;
+  margin-top: 50px;
+  color: grey;
+  color: hsl(234, 12%, 34%);
+}
+
+span {
+  font-weight: 600;
+}
+
+div {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+}
+
+p {
+  width: 85%;
+}
+
+.bajada {
+  font-size: 12px;
+  font-weight: 200;
+  width: 33%;
+  margin-left: 420px;
+}
+
+#teamfoto {
+  padding: 10px;
+  width: 45px;
+  padding-left: 70%;
+}
+
+.team {
+  width: 250px;
+  position: absolute;
+  margin: 40px 100px 35px 500px;
+  padding-left: 20px;
+  padding-top: 10px;
+  border-top: solid hsl(0, 78%, 62%);
+}
+
+.karma {
+  width: 250px;
+  position: absolute;
+  margin: 210px 300px 500px 500px;
+  border-top: solid hsl(34, 97%, 64%);
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.calcula {
+  width: 250px;
+  position: absolute;
+  margin: 160px 100px 800px 790px;
+  border-top: solid hsl(212, 86%, 64%);
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.super {
+  width: 250px;
+  position: absolute;
+  margin: 160px 100px 800px 210px;
+  border-top: solid hsl(180, 62%, 55%);
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+#resalta {
+  font-size: 14px;
+  weight: 400;
+  padding: 1px;
+  color: hsl(234, 12%, 34%);
+}
+
+.attribution {
+  position: relative;
+  margin-top: 600px;
+  margin-left: 5%;
+}
